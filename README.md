@@ -27,16 +27,17 @@
 
 ###### Option 1 - Domain Provider > GitHub Pages Hosting
 - [ ] Go to domain provider DNS settings and...
-- [ ] add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
-- [ ] add a record Type `A` Name `your domain` Content `192.30.252.154` (points towards Github Pages)
+- [ ] Add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
+- [ ] Add a record Type `A` Name `your domain` Content `192.30.252.154` (points towards Github Pages)
 - [ ] \(If non-existent) add a record Type `CNAME` Name `www` Content `your domain`
 
 ###### Option 2 - Domain Provider > Cloudflare Analytics/ Cacheing/ Minification etc > GitHub Pages Hosting
 - [ ] Go to Cloudflare and...
 - [ ] Add a new website (with your new domain)
 - [ ] When asked, go back to domain provider and input the custom DNS `adelaide.ns.cloudflare.com` `chad.ns.cloudflare.com`
-- [ ] add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
-- [ ] add a record Type `A` Name `your domain` Content `192.30.252.154` (points towards Github Pages)
+= [ ] Go back to Cloudflare and...
+- [ ] Add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
+- [ ] Add a record Type `A` Name `your domain` Content `192.30.252.154` (points towards Github Pages)
 - [ ] \(If non-existent) add a record Type `CNAME` Name `www` Content `your domain`
 - [ ] Go to SSL settings and set to Flexible (or full, if it works for you)
 
