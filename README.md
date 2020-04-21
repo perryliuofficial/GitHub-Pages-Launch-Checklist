@@ -34,11 +34,11 @@
 ###### Option 2 - Domain Provider > Cloudflare Analytics/ Cacheing/ Minification etc > GitHub Pages Hosting
 - [ ] Go to Cloudflare and...
 - [ ] Add a new website (with your new domain)
-- [ ] ~When asked, go back to domain provider and input the custom DNS `adelaide.ns.cloudflare.com` `chad.ns.cloudflare.com`~
+- [ ] When asked, go back to domain provider and input the custom DNS `adelaide.ns.cloudflare.com` `chad.ns.cloudflare.com`
 - [ ] add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
 - [ ] add a record Type `A` Name `your domain` Content `192.30.252.154` (points towards Github Pages)
 - [ ] \(If non-existent) add a record Type `CNAME` Name `www` Content `your domain`
-- [ ] ~Go to SSL settings and set to Flexible (or full, if it works for you) ~
+- [ ] Go to SSL settings and set to Flexible (or full, if it works for you)
 
 ###### Sitemap & Robots.txt
 - [ ] Use a [Sitemap Generator](https://www.xml-sitemaps.com/), edit output to remove any sites that you want hidden (404 page etc)
