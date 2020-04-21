@@ -32,8 +32,7 @@
 - [ ] \(If non-existent) add a record Type `CNAME` Name `www` Content `your domain`
 
 ###### Option 2 - Domain Provider > Cloudflare Analytics/ Cacheing/ Minification etc > GitHub Pages Hosting
-- [ ] Go to Cloudflare and...
-- [ ] Add a new website (with your new domain)
+- [ ] Go to Cloudflare and add a new website (with your new domain)
 - [ ] When asked, go back to domain provider and input the custom DNS `adelaide.ns.cloudflare.com` `chad.ns.cloudflare.com`
 - [ ] Go back to Cloudflare and...
 - [ ] Add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
