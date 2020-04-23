@@ -53,10 +53,8 @@
 | ------------- | ------------- | ------------- |
 | Google Domain  | [Google](https://support.google.com/domains/answer/3251241?hl=en) | [Google](https://support.google.com/domains/answer/9437157) |
 | Namecheap Private Email | [Namecheap **PAID**](https://www.namecheap.com/hosting/email/) | [Namecheap **PAID**](https://www.namecheap.com/hosting/email/) |
-| Namecheap > Gmail  | [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/308/2214/how-to-set-up-free-email-forwarding)  | [GSuite **PAID**](https://support.google.com/a/answer/87127?hl=en) |
-| Namecheap > Gmail  | [Improvmx](https://app.improvmx.com/)  | [Improvmx **PAID**](https://app.improvmx.com/) |
-| Cloudflare > Gmail | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en) | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en) |
-| Cloudflare > Gmail | [Improvmx](https://app.improvmx.com/) | [Improvmx **PAID**](https://app.improvmx.com/) |
+| Namecheap > Gmail  | [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/308/2214/how-to-set-up-free-email-forwarding)<br>[Improvmx](https://app.improvmx.com/)  | [GSuite **PAID**](https://support.google.com/a/answer/87127?hl=en)<br>[Improvmx](https://improvmx.com/guides/send-emails-using-gmail/)<br>[Improvmx **PAID**](https://app.improvmx.com/) |
+| Cloudflare > Gmail | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en)<br>[Improvmx](https://app.improvmx.com/) | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en)<br>[Improvmx](https://improvmx.com/guides/send-emails-using-gmail/)<br>[Improvmx **PAID**](https://app.improvmx.com/) |
 
 ###### You're Done!
 - [ ] Crack open the champagne
