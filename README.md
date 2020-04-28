@@ -1,5 +1,4 @@
 # GitHub-Pages-Launch-Checklist
-*Last Updated 23 Apr 2020*
 
 ###### Misc Cleanup and Optimisation
 - [X] Ensure you have a 404 page
@@ -7,8 +6,8 @@
 - [ ] For all other links, remove the `.html` portion of the link (url is `/page` instead of `/page.html`)
 - [ ] \(Optional) [Update favicons](https://favicon.io/)
 - [ ] \(Optional) Update meta descriptions and titles
-- [ ] \(Optional) [Convert gifs to autoplaying videos](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video)
-- [ ] \(Optional) [Add Webp image compatibility](https://web.dev/serve-images-webp/)
+- [ ] \(Optional) [Convert gifs to autoplaying videos & Add Webm compatibility](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video)
+- [ ] \(Optional) [Add Webp compatibility](https://web.dev/serve-images-webp/)
 - [ ] \(Optional) [Implement image lazy loading](https://github.com/ApoorvSaxena/lozad.js)
 - [ ] \(Optional) [Optimise image sizes](https://imgbot.net/)
 - [ ] \(Optional) Use [`env()`](https://developer.mozilla.org/en-US/docs/Web/CSS/env) to deal with [notched phones](https://bubblin.io/blog/notch)
@@ -23,7 +22,7 @@
 
 ###### Domain Provider
 - [ ] Grab a domain
-- [ ] \(Optional) Get a free .me domain via [GitHub Education](https://education.github.com/)
+- [ ] \(Optional) Get a free domain via [GitHub Education](https://education.github.com/)
 - [ ] Go to Github Pages settings and add the new custom domain
 
 ###### Option 1 - Domain Provider > GitHub Pages Hosting
