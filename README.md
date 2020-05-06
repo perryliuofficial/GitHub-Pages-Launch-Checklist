@@ -3,13 +3,13 @@
 ###### Misc Cleanup and Optimisation
 - [X] Ensure you have a 404 page
 - [ ] Replace all `index.html` links with `/` (url is `/` instead of `/index.html`)
-- [ ] For all other links, remove the `.html` portion of the link (url is `/page` instead of `/page.html`)
+- [ ] For all other links, remove the `.html` portion of the link (url is `/subdirectory` instead of `/subdirectory.html`)
 - [ ] \(Optional) [Update favicons](https://favicon.io/)
 - [ ] \(Optional) Update meta descriptions and titles
+- [ ] \(Optional) [Optimise image sizes](https://imgbot.net/)
 - [ ] \(Optional) [Convert gifs to autoplaying videos & Add Webm compatibility](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video)
 - [ ] \(Optional) [Add Webp compatibility](https://web.dev/serve-images-webp/)
 - [ ] \(Optional) [Implement image lazy loading](https://github.com/ApoorvSaxena/lozad.js)
-- [ ] \(Optional) [Optimise image sizes](https://imgbot.net/)
 - [ ] \(Optional) Use [`env()`](https://developer.mozilla.org/en-US/docs/Web/CSS/env) to deal with [notched phones](https://bubblin.io/blog/notch)
 
 ###### Github Pages
