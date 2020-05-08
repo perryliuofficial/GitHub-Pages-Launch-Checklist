@@ -9,7 +9,7 @@
 - [ ] \(Optional) [Optimise image sizes](https://imgbot.net/)
 - [ ] \(Optional) [Convert gifs to autoplaying videos & Add Webm compatibility](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/replace-animated-gifs-with-video)
 - [ ] \(Optional) [Add Webp compatibility](https://web.dev/serve-images-webp/)
-- [ ] \(Optional) [Implement image lazy loading](https://github.com/ApoorvSaxena/lozad.js)
+- [ ] \(Optional) [Implement image lazy loading](https://addyosmani.com/blog/lazy-loading/)
 - [ ] \(Optional) Use [`env()`](https://developer.mozilla.org/en-US/docs/Web/CSS/env) to deal with [notched phones](https://bubblin.io/blog/notch)
 - [ ] \(Optional) [Add skip links and landmark regions for screen readers](https://web.dev/bypass/?utm_source=lighthouse&utm_medium=devtools)
 
