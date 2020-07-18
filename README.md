@@ -39,7 +39,9 @@
 - [ ] Add a record Type `A` Name `your domain` Content `192.30.252.153` (points towards Github Pages)
 - [ ] Add a record Type `A` Name `your domain` Content `192.30.252.154` (points towards Github Pages)
 - [ ] \(If non-existent) add a record Type `CNAME` Name `www` Content `your domain`
-- [ ] Go to SSL settings and set to Flexible (or full, if it works for you)
+- [ ] Go to SSL settings and set to Flexible
+- [ ] Turn on "Always Use HTTPS" under SSL > Edge Certificates
+- [ ] Turn on "Automatic HTTPS Rewrites" under SSL > Edge Certificates
 
 ###### Sitemap & Robots.txt
 - [ ] Use a [Sitemap Generator](https://www.xml-sitemaps.com/), edit output to remove any sites that you want hidden (404 page etc)
