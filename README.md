@@ -50,7 +50,7 @@
 - [ ] Turn on "Always Use HTTPS" under SSL > Edge Certificates
 - [ ] Turn on "Automatic HTTPS Rewrites" under SSL > Edge Certificates
 
-###### Sitemap & Robots.txt
+###### Sitemap, Robots.txt & Security.txt
 
 - [ ] Use a [Sitemap Generator](https://www.xml-sitemaps.com/), edit output to remove any sites that you want hidden (404 page etc)
 - [ ] Add to Github repo (top folder level)
@@ -58,12 +58,13 @@
 - [ ] Go to [Google Search Console](https://search.google.com/u/0/search-console/welcome?hl=en&utm_source=wmx&utm_medium=deprecation-pane&utm_content=dashboard)
 - [ ] Go to Cloudflare DNS or domain provider DNS, add a record Type `TXT` Name `your domain` Content `verification string`
 - [ ] Once confirmed, input sitemap URL to console for Google Search bot indexing
+- [ ] Create a [security.txt](https://securitytxt.org/) file
 
 | Description | Email Forwarding | Email Sending |
 | ------------- | ------------- | ------------- |
 | Google Domain  | [Google](https://support.google.com/domains/answer/3251241?hl=en) | [Google](https://support.google.com/domains/answer/9437157) |
 | Namecheap > Gmail  | [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/308/2214/how-to-set-up-free-email-forwarding)<br>[Namecheap **PAID**](https://www.namecheap.com/hosting/email/)<br>[Improvmx](https://app.improvmx.com/)  | [Namecheap **PAID**](https://www.namecheap.com/hosting/email/)<br>[GSuite **PAID**](https://support.google.com/a/answer/87127?hl=en)<br>[Improvmx](https://improvmx.com/guides/send-emails-using-gmail/)<br>[Improvmx **PAID**](https://app.improvmx.com/) |
-| Cloudflare > Gmail | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en)<br>[Improvmx](https://app.improvmx.com/) | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en)<br>[Improvmx](https://improvmx.com/guides/send-emails-using-gmail/)<br>[Improvmx **PAID**](https://app.improvmx.com/) |
+| Cloudflare > Gmail | [Cloudflare](https://blog.cloudflare.com/introducing-email-routing/)<br>[GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en)<br>[Improvmx](https://app.improvmx.com/) | [GSuite **PAID**](https://support.google.com/a/answer/7174013?hl=en)<br>[Improvmx](https://improvmx.com/guides/send-emails-using-gmail/)<br>[Improvmx **PAID**](https://app.improvmx.com/) |
 
 ###### You're Done!
 
